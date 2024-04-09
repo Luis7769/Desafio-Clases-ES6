@@ -15,6 +15,6 @@ Este proyecto es una aplicación web para una consulta veterinaria donde los usu
 - CSS (Bootstrap)
 - JavaScript
 
-## Instalación
+
 
 
